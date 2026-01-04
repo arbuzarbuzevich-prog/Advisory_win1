@@ -1,0 +1,8 @@
+node_modules
+.dist
+.env
+.vscode
+.DS_Store
+apps/backend/dist
+apps/frontend/dist
+packages/shared/dist
